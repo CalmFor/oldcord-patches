@@ -14,20 +14,6 @@ A Discord theme that tries to restore its 2020 UI
 > - UI Density should be on default, i won't support the other 2 options (they still kinda work, though)
 > - If you use BetterFolders, expect half your screen to turn blank every few months
 
-## By OldCord
-
-These are usually included in oldcord.theme.css, so all you need to do is remove `/*` in the file for each addon you want to use
-
-| Name                   | Preview                                                                                | CSS                                                                                |
-| ---------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
-| Show Profile Effects (the one you prob want) | ![Image](https://raw.githubusercontent.com/milbits/oldcord/master/.github/showeffects.webp)                                                         | `@import url("https://milbits.github.io/oldcord/src/components/showEffects.css");` |
-| Show Clan Tags | im too lazy for an image                                                     | `@import url("https://milbits.github.io/oldcord/src/components/showTags.css");` |
-| Old Plead Emoji        | ![Image](https://raw.githubusercontent.com/milbits/oldcord/master/.github/emojis.webp)     | `@import url("https://milbits.github.io/oldcord/src/components/oldEmojis.css");`   |
-| Context Menu hover bg. | <img src=https://raw.githubusercontent.com/milbits/oldcord/master/.github/oldcontext.webp> | `@import url("https://milbits.github.io/oldcord/src/components/oldContext.css");`  |
-| [Tanza3D & KingGamingYT's NoMosaic plugin (BetterDiscord)](https://github.com/KingGamingYT/discord-no-mosaic)                         | Restores the old image layout                               |
-
-If you use custom/quickcss, paste the CSS at the very top!
-
 ## 3rd party
 
 | Name                                                                                                                                  | Description                                                 |
