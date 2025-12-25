@@ -1,0 +1,11 @@
+/**
+ * @name OldCord FORK
+ * @version 1.0
+ * @author CalmFor
+ * @source https://github.com/CalmFor/oldcord-patches
+ * @website https://github.com/CalmFor/oldcord-patches
+ * @description Restores discord's 2023 UI
+ */
+
+/* Everything in one */
+@import url("https://github.com/CalmFor/oldcord-patches/blob/main/src/main.css");
