@@ -41,7 +41,7 @@ A Discord theme that tries to restore its 2023 UI
 
 Paste the following in `Settings > Themes`:
 
-- `https://milbits.github.io/oldcord/src/main.css`
+- `https://raw.githubusercontent.com/CalmFor/oldcord-patches/main/src/main.css`
 
 ## 🎛️ Other
 
