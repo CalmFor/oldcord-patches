@@ -14,24 +14,6 @@ A Discord theme that tries to restore its 2020 UI
 > - UI Density should be on default, i won't support the other 2 options (they still kinda work, though)
 > - If you use BetterFolders, expect half your screen to turn blank every few months
 
-<details> <summary><h3>Light mode</h3></summary>
-
-Light mode is CUSTOM, it has higher contrast and slightly darker colors with adjustable tint, keeping it bright while not burning your retinas
-
-It is currently not compatible with ShowEffects, sorry
-
-<img src=https://raw.githubusercontent.com/milbits/oldcord/master/.github/previewLight.webp>
-
-###### preview slightly outdated
-
-Adjust the tint with `--oldcord-tint`, value/number has to be in HSL hue (e.g. 200). You can find it in the theme's `oldcord.theme.css` file.
-
-</details>
-
-
-
-<details><summary><h1>Addons</h1></summary>
-
 ## By OldCord
 
 These are usually included in oldcord.theme.css, so all you need to do is remove `/*` in the file for each addon you want to use
