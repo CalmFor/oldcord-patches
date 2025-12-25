@@ -80,7 +80,7 @@ Paste the following in `Settings > Themes`:
 1. Paste the following at **the top** of the CSS file/window:
 
 ```css
-@import url("https://milbits.github.io/oldcord/src/main.css");
+@import url("https://github.com/CalmFor/oldcord-patches/blob/main/src/main.css");
 ```
 
 
