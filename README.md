@@ -75,17 +75,6 @@ Paste the following in `Settings > Themes`:
 
 - `https://milbits.github.io/oldcord/src/main.css`
 
-
-## 🚮[BetterDiscord](https://betterdiscord.app/)
-
-1. Download [OldCord.theme.css](https://raw.githubusercontent.com/milbits/oldcord/main/OldCord.theme.css) (right-click > "Save As")
-2. Save the file to your BetterDiscord theme folder:
-
-- Windows: `%appdata%/BetterDiscord/themes`
-- Linux: `~/.config/BetterDiscord/themes`
-- MacOS: `/Library/Application\ Support/BetterDiscord/themes/`
-
-
 ## 🎛️ Other
 
 1. Paste the following at **the top** of the CSS file/window:
