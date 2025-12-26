@@ -83,7 +83,5 @@ section[class*="container"][aria-labelledby] {
 ._5e434347c823b592-sidebar {
     width: 300px !important;
     min-width: 0px !important;
-    max-width: 313px !important;
-    border-radius: 0 !important;
-    background-color: #2f3136 !important;
+    max-width: 312px !important;
 }
