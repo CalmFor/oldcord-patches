@@ -84,6 +84,6 @@ section[class*="container"][aria-labelledby] {
     width: 300px !important;
     min-width: 0px !important;
     max-width: 313px !important;
-    border-radius: 0 !important; /* острые углы */
-    background-color: #2f3136 !important; /* общий фон панели */
+    border-radius: 0 !important;
+    background-color: #2f3136 !important;
 }
