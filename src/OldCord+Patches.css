@@ -80,3 +80,10 @@ section[class*="container"][aria-labelledby] {
 .ab86098b36386ff7-container {
     display: none !important;
 }
+._5e434347c823b592-sidebar {
+    width: 300px !important;
+    min-width: 0px !important;
+    max-width: 313px !important;
+    border-radius: 0 !important; /* острые углы */
+    background-color: #2f3136 !important; /* общий фон панели */
+}
